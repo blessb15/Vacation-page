@@ -1,0 +1,24 @@
+img{
+  width: 50%
+}
+
+.pic{
+  display: none;
+}
+
+.showme{
+  display: block;
+}
+
+#radios{
+  padding-left: 20px;
+}
+
+h1{
+  text-align: center;
+  padding-bottom: 40px;
+}
+
+body{
+  background-color: #ade5fb;
+}
